@@ -1,0 +1,51 @@
+Consoles Archive Info
+# Bios Packs
+'3DO BIOS'                   'MAME BIOS'                              'Scph7502 BIOS'
+'Amiga BIOS'                 'MESS BIOS'                              'Sega 101 BIOS'
+'Atari 5200 BIOS'            'Microsoft XBox BIOS'                    'SEGA 32X BIOS'
+'Atari 7800 BIOS'            'NDS Firmware BIOS'                      'Sega CD BIOS'
+'Atari BIOS Collection'      'NeoGeo BIOS'                            'Sega-CD Europe BIOS'
+'Atari Jaguar BIOS'          'NES to SNES adapter BIOS'               'Sega-CD USA BIOS'
+'Atari jaguar boot cd BIOS'  'Nintendo Disk System Boot Sector BIOS'  'Sega Master System - GameGear BIOS'
+'Atari jaguar console BIOS'  'Nintendo Gamecube BIOS'                 'Sega Mega-CD Japan BIOS'
+'Atari Lynx BIOS'            'PCE CD-ROM System BIOS'                 'Sega Saturn Action Replay ROM BIOS'
+'Atari TOS 206 US BIOS'      'PCE System Card 1 BIOS'                 'Sega Saturn BIOS'
+'BSX satellaview BIOS'       'PCE System Card 2 BIOS'                 'Sega Saturn BIOS (EUR)'
+'CD-i BIOS'                  'PS2 BIOS'                               'Sega Saturn BIOS v1.00 (JAP)'
+'ColecoVision BIOS'          'PS One BIOS'                            'Sega Saturn BIOS v1.01 (JAP)'
+'Dreamcast BIOS'             'PSX 41a BIOS'                           'Sega Titan Video BIOS'
+'Gamars copier BIOS'         'PSX BIOS'                               'Syscard3 BIOS'
+'GBA BIOS'                   'PSX SCPH1001 BIOS'                      'Xband modem bios BIOS'
+'GBC Bios'                    retrobiospack.zip
+'Mac Quadra BIOS'            'Scph1000 BIOS'
+
+# Atari
+# Bandai Playdia
+# Bandai Wonderswan
+Coleco Adam
+Coleco Vision
+Magnavox
+Microsoft xBox ISO's
+Neo Geo ISOs
+Nintendo 64
+Nitnend Entertainnment System
+Nintendo Famicom Diskstem
+Nintendo Game Cube
+Nintendo Vitual Boy
+Nintendo Wii
+Nintendo Super Nintendo
+Panasonic 3d0
+PC Engine CD - Turbo Duo - TurboGrafx-CD
+PC-FX
+Philips CD-i
+RetroArch
+Sega 32x
+Sega CD
+Sega Dreamcast
+Sega Game Gear
+Sega MAster System
+Sega Saturn
+Sega Genesis/Megadrive
+Sony Playstation
+Sony Playstation 2
+Sony Playstation 3
