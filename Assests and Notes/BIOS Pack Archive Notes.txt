@@ -1,0 +1,58 @@
+BIOS Pack Archive
+The BIOS Pack Archive contains some of the most popular BIOS for retro and modern consoles.
+
+# Included BIOS Packs
+* Amiga BIOS
+* 3DO BIOS
+* Atari 5200 BIOS
+* Atari 7800 BIOS
+* Atari BIOS Collection
+* Atari Jaguar BIOS
+* Atari jaguar boot cd BIOS
+* Atari jaguar console BIOS
+* Atari Lynx BIOS
+* Atari TOS 206 US BIOS
+* BIOS Pack Archive.zip
+* BSX satellaview BIOS
+* CD-i BIOS
+* ColecoVision BIOS
+* Dreamcast BIOS
+* Gamars copier BIOS
+* GBA BIOS
+* GBC Bios
+* included.txt
+* Mac Quadra BIOS
+* MAME BIOS
+* MESS BIOS
+* Microsoft XBox BIOS
+* NDS Firmware BIOS
+* NeoGeo BIOS
+* NES to SNES adapter BIOS
+* Nintendo Disk System Boot Sector BIOS
+* Nintendo Gamecube BIOS
+* PCE CD-ROM System BIOS
+* PCE System Card 1 BIOS
+* PCE System Card 2 BIOS
+* PS2 BIOS
+* PS One BIOS
+* PSX 41a BIOS
+* PSX BIOS
+* PSX SCPH1001 BIOS
+* Scph1000 BIOS
+* Scph7502 BIOS
+* Sega 101 BIOS
+* SEGA 32X BIOS
+* Sega CD BIOS
+* Sega-CD Europe BIOS
+* Sega-CD USA BIOS
+* Sega Master System - GameGear BIOS
+* Sega Mega-CD Japan BIOS
+* Sega Saturn Action Replay ROM BIOS
+* Sega Saturn BIOS
+* Sega Saturn BIOS (EUR)
+* Sega Saturn BIOS v1.00 (JAP)
+* Sega Saturn BIOS v1.01 (JAP)
+* Sega Titan Video BIOS
+* Syscard3 BIOS
+* Xband modem bios BIOS
+* 
