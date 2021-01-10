@@ -6,7 +6,7 @@ Because I am sick and tired of Nintendo constantly DCMA striking everything that
 You can use this archive several ways. You can use the following links to download and view the archives, or you can use the "Go to File" button located on top of this repostiory and search for a file that might be located into the archive. Make sure to check out the Releases Tab, becuase I will be uploading zipped files there.
 
 # Consoles
-| Archive Name | GitHub Archive Location | Download Link | Amount of Files | Size |
+| Archive Name | GitHub Archive | Download Link | Amount of Files | Size |
 |--------------------|--------------------|--------------------|--------------------|--------------------|
 | Bios Packs         | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | [Download Here](https://downgit.github.io/#/home?url=https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | 618 items | 135.7 MB |
 | Atari |
