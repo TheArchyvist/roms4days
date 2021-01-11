@@ -1,0 +1,139 @@
+Magnavox Odyssey 2 ROMs
+
+ROMS
+=================================================================
+4 en 1 Ligne (France).bin
+4 in 1 Row (Europe).bin
+Alien Invaders - Plus (USA, Europe).bin
+Alpine Skiing (USA, Europe).bin
+Armored Encounter + Sub Chase (USA, Europe).bin
+astro.bin
+Atlantis (USA, Europe).bin
+Attack of the Timelord (USA).bin
+avsound.bin
+Baseball (USA, Europe).bin
+Billard Electrique (France).bin
+Billiard Americain (France).bin
+Blackjack (France).bin
+Blobbers, The (Europe).bin
+Blockout + Breakdown (USA, Europe).bin
+Bombardeio Submarino + Tiro ao Alvo (Brazil).bin
+Bowling + Basketball (USA, Europe).bin
+Buraco Negro (Brazil).bin
+Casino Slot Machine (USA, Europe).bin
+Catch the Ball + Noughts and Crosses (Europe).bin
+Chat et Souris (France).bin
+Chess (Europe).bin
+Chinese Logic (Europe).bin
+Clay Pigeon (Brazil).bin
+Comando Noturno (Brazil).bin
+Computer Golf (USA).bin
+Computer Intro (USA).bin
+Computer Programmer (Europe).bin
+Conflit Cosmique (Canada).bin
+Conquest of the World (USA, Europe).bin
+Cosmic Conflict (Europe) (Alt 1).bin
+Cosmic Conflict (Europe).bin
+Cosmic Conflict (USA).bin
+Course de Voitures + Autodrome + Cryptogramme (France).bin
+Demon Attack (USA, Europe).bin
+Depth Charge + Marksman (Europe).bin
+Desafio Chines (Brazil).bin
+Dynasty (USA).bin
+Electronic Table Soccer (USA, Europe).bin
+Football (USA, Europe).bin
+Football Electronique + Hockey Electronique (France).bin
+Freedom Fighters (USA, Europe).bin
+Frogger (Brazil).bin
+Frogger (Europe).bin
+Golf (Europe).bin
+Great Wall Street Fortune Hunt, The (USA, Europe).bin
+Guerre Laser (France).bin
+Gunfighter (Europe).bin
+Hockey + Soccer (USA, Europe).bin
+I've Got Your Number (USA, Europe).bin
+Interpol (Europe) (Proto).bin
+Invaders from Hyperspace (USA).bin
+Jeu de Quilles + Basketball (France).bin
+Jumping Acrobats (Europe) (Alt 1).bin
+Jumping Acrobats (Europe).bin
+K.C. Munchkin (USA).bin
+K.C.'s Krazy Chase (USA, Europe).bin
+Keyboard Creations (USA).bin
+Killer Bees (USA).bin
+Kinder im Verkehr 1 (Germany).bin
+La Quete des Anneaux (France).bin
+Labyrinth Game, A + Supermind (Europe).bin
+Las Vegas (France).bin
+Las Vegas Blackjack (USA, Europe).bin
+Laser War (Europe).bin
+Loony Balloon (Europe) (Proto).bin
+Martian Threat (Europe) (Proto) (Alt 1).bin
+Martian Threat (Europe) (Proto).bin
+Matchmaker + Logix + Buzzword (USA).bin
+Math-A-Magic + Echo (USA, Europe).bin
+Mathematicien + Echo (France).bin
+Mission Impossible (Brazil) (Proto).bin
+Monkeyshines (USA, Europe).bin
+Morse (Europe).bin
+Morse (France).bin
+Mousing Cat, The (Europe).bin
+Munchkin (Europe).bin
+Mur Magique, Le (France).bin
+Musician (Europe).bin
+Neutron Star (Europe) (Proto).bin
+Newscaster (Europe).bin
+Nightfighter (Europe) (Proto).bin
+Nightmare (Europe).bin
+Nimble Numbers Ned (USA).bin
+O Malabarista + Jogo da Velha (Brazil).bin
+O Segredo do Farao (Brazil).bin
+Out of this World + Helicopter Rescue (USA).bin
+P.T. Barnum's Acrobats (USA).bin
+Pachinko (USA, Europe).bin
+Pairs + Space Rendezvous + Logic (Europe).bin
+Pick Axe Pete (USA, Europe).bin
+Pinball (USA) (Proto).bin
+Playtag (Europe) (Proto).bin
+Pocket Billiards (USA, Europe).bin
+Popeye (Brazil).bin
+Popeye (Europe).bin
+Power Lords (USA) (Alt 1).bin
+Power Lords (USA).bin
+Prendre l'Argent et Fuir (France).bin
+Q-Bert (Europe).bin
+Quest for the Rings (USA, Europe).bin
+Red Baron (Europe) (Proto) (Alt 1).bin
+Red Baron (Europe) (Proto).bin
+Robot City (Europe) (Proto).bin
+Samurai (Europe).bin
+Satellite Attack (Europe).bin
+Secret of the Pharaohs (Europe).bin
+Shark Hunter (Europe) (Proto).bin
+Showdown in 2100 A.D. (USA).bin
+Sid the Spellbinder (USA).bin
+Skiing (France).bin
+Smithereens (USA).bin
+Speedway + Spin-out + Crypto-logic (USA, Europe).bin
+Spider-Man (Europe) (Proto) (Alt 1).bin
+Spider-Man (Europe) (Proto).bin
+Stone Sling (Europe).bin
+Super Bee (Brazil).bin
+Super Bee (Europe).bin
+Super Cobra (Brazil).bin
+Super Cobra (Europe).bin
+Take the Money and Run (USA, Europe).bin
+Thunderball (USA, Europe).bin
+Turtles (Europe).bin
+Turtles (USA).bin
+Tutankham (Europe) (Proto).bin
+Type & Tell (USA).bin
+UFO (USA).bin
+Verkehrsspiele 1 (Germany).bin
+Verkehrsspiele 2 (Germany).bin
+Volleyball (USA, Europe).bin
+Volleyball Electronique (France).bin
+Wall Street (Brazil).bin
+War of Nerves (USA, Europe).bin
+[BIOS] Magnavox Odyssey2 (USA, Europe).bin
+[BIOS] Philips C52 (France).bin
