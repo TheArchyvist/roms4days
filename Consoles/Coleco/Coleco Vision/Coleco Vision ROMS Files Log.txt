@@ -1,0 +1,175 @@
+Coleco Vision ROMS Files Log
+
+Files
+=============================================================
+2010 - The Graphic Action Game (USA, Europe).col
+Alcazar - The Forgotten Fortress (USA).col
+Alphabet Zoo (USA).col
+Amazing Bumpman (USA).col
+Amazing Snake v0.5 (2000)(Tremblay, Serge-Eric)(PD).rom
+Antarctic Adventure (USA, Europe).col
+Aquattack (USA).col
+Artillery Duel (USA).col
+BC's Quest for Tires (USA, Europe).col
+BC's Quest for Tires II - Grog's Revenge (USA, Europe).col
+Beamrider (USA).col
+Blockade Runner (USA).col
+Boulder Dash (USA).col
+Brain Strainers (USA, Europe).col
+Buck Rogers - Planet Of Zoom (USA, Europe).col
+Bump 'N' Jump (USA, Europe).col
+Burgertime (USA, Europe).col
+Cabbage Patch Kids - Adventures in the Park (USA, Europe).col
+Cabbage Patch Kids Picture Show (USA, Europe).col
+Campaign '84 (USA).col
+Carnival (USA, Europe).col
+Centipede (USA).col
+Choplifter (USA, Europe).col
+Chuck Norris - Super Kicks (USA).col
+Congo Bongo (USA, Europe).col
+Cosmic Avenger (USA, Europe).col
+Cosmic Crisis (USA).col
+Cosmo Challenge (1997)(de Kogel, Marcel)(PD).rom
+Cosmo Fighter 2 (1997)(Red Bullet)(PD).rom
+Dacman V1.2b by Daniel Bienvenu (Aug 01) (2000) (PD).rom
+Dam Busters, The (USA, Europe).col
+Dance Fantasy (USA).col
+Death Race (PD).rom
+Decathlon (USA).col
+Defender (USA).col
+Destructor (USA, Europe).col
+Dig Dug (USA) (Proto).col
+Donkey Kong (USA, Europe) (Adam).col
+Donkey Kong Jr (USA, Europe).col
+Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe).col
+DragonFire (USA).col
+Dukes of Hazzard, The (USA, Europe).col
+Escape From The Mind Master (USA) (Proto).col
+Evolution (USA).col
+Facemaker (USA).col
+Fall Guy (Europe) (Proto).col
+Fathom (USA).col
+Flipper Slipper (USA).col
+Fortune Builder (USA, Europe).col
+Fraction Fever (USA).col
+Frantic Freddy (USA).col
+Frenzy! (USA, Europe).col
+Frogger (USA).col
+Frogger II - ThreeDeep! (USA).col
+From Out Of The Jungle - Tarzan (USA).col
+Frontline (USA, Europe).col
+Galaxian (USA) (Alt).col
+Gateway to Apshai (USA).col
+Gorf (USA, Europe).col
+Gust Buster (USA).col
+Gyruss (USA).col
+H.E.R.O (USA).col
+Heist, The (USA).col
+Illusions (USA, Europe).col
+Its Only Rock 'N' Roll (USA).col
+James Bond (USA).col
+Joust (USA) (Proto).col
+Juke Box (USA).col
+Jumpman Junior (USA).col
+Jungle Hunt (USA).col
+Ken Uston's Blackjack-Poker (USA, Europe).col
+Kevtris by Kevin Horton (Jun 12) (1996) (PD).rom
+Keystone Kapers (USA).col
+Lady Bug (USA, Europe).col
+Learning With Leeper (USA).col
+Linking Logic (USA).col
+Logic Levels (USA).col
+Looping (USA, Europe).col
+M.A.S.H (Europe).col
+Memory Manor (USA).col
+Meteoric Shower (USA).col
+Miner 2049er (USA).col
+Monkey Academy (USA, Europe).col
+Montezuma's Revenge (USA).col
+Moon Patrol (USA) (Proto).col
+Moonsweeper (USA).col
+Motocross Racer (USA) (Alt).col
+Mountain King (USA).col
+Mousetrap (USA, Europe).col
+Mr Do's Castle (USA).col
+Mr. Do! (USA, Europe).col
+Ms. Space Fury (USA) (Unl).col
+Nova Blast (USA).col
+Oil's Well (USA).col
+Omega Race (USA, Europe).col
+One on One (USA).col
+Orbit (1983) (Parker Bros) (Prototype).rom
+Pac-Man (USA) (Proto).col
+Pac-Man Collection Demo by Opcode (2006) (PD).rom
+Pepper II (USA, Europe).col
+Pitfall II - Lost Caverns (USA).col
+Pitfall! (USA).col
+Pitstop (USA).col
+Popeye (USA).col
+Porky's (USA) (Proto).col
+Power Lords - Quest for Volcan (USA) (Proto).col
+Purple Dinosaur Massacre by John Dondzila (1996) (PD).rom
+Q-bert (USA).col
+Q-bert II (USA).col
+Quest for Quintana Roo (USA) (Alt).col
+Reversi by Daniel Bienvenu (Nov 22) (2003) (PD).rom
+River Raid (USA).col
+Robin Hood (USA).col
+Roc 'N Rope (USA, Europe).col
+Rock 'N' Bolt (USA) (Alt).col
+Rocky Super-Action Boxing (USA, Europe).col
+Rolloverture (USA).col
+Sammy Lightfoot (USA).col
+Sector Alpha (USA).col
+Sewer Sam (USA).col
+Sir Lancelot (USA).col
+Skiing (USA).col
+Sky Jaguar (1984) (Konami-Opcode).rom
+Slither (USA).col
+Slurpy (USA).col
+Smurf Paint 'n Play Workshop (USA, Europe).col
+Smurf Rescue (USA, Europe).col
+Space Fury (USA, Europe).col
+Space Invaders Collection Pack Demo (2002) (Taito-Opcode).rom
+Space Invasion by John Dondzila (1998) (PD).rom
+Space Panic (USA, Europe).col
+Spectron (USA).col
+Spy Hunter (USA, Europe).col
+Squish 'Em Sam! (USA).col
+Star Fortress (1997)(Dondzila, John)(PD).rom
+Star Trek (USA, Europe).col
+Star Wars (USA).col
+Steamroller (USA) (Proto).col
+Strike It! (USA).col
+Subroc (USA, Europe).col
+Super Action Baseball (USA, Europe).col
+Super Action Football (USA, Europe).col
+Super Action Soccer (USA, Europe).col
+Super Cobra (USA).col
+Super Controller Tester (USA).col
+Super Cross Force (USA).col
+Super DK! (USA) (Proto) (Unl).col
+Super DK! Junior (USA) (Proto) (Unl).col
+Tank Wars (USA).col
+Tapper (USA, Europe).col
+Telly Turtle (USA, Europe).col
+Threshold (USA).col
+Time Pilot (USA, Europe).col
+Tomarc the Barbarian (USA).col
+Tournament Tennis (USA).col
+Tunnels & Trolls (USA, Europe) (Demo).col
+Turbo (USA, Europe).col
+Tutankham (USA).col
+Up 'N Down (USA).col
+Venture (USA, Europe).col
+Victory (USA, Europe).col
+Video Hustler (Europe) (Proto).col
+War Games (USA, Europe).col
+War Room (USA).col
+Wing War (USA).col
+Wizard of Id's Wizmath (USA).col
+Word Feud (USA).col
+Yolk's on You, The (Europe) (Proto).col
+Zaxxon (USA, Europe).col
+Zenji (USA).col
+[BIOS] ColecoVision (USA, Europe).col

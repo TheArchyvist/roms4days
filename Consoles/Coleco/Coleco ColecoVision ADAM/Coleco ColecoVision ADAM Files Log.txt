@@ -1,0 +1,360 @@
+Coleco ColecoVision ADAM Files Log
+
+Coleco ColecoVision ADAM - Applications - [BAS] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+M - Applications - [BAS] (TOSEC-v2011-08-31_CM)>dir /b
+Access Starter (1985)(Vincent, Fred).zip
+ADAM Chat v2.0 (198x)(Neeley, Alan)(PD).zip
+ADAM Z80 Hexadecimal Disassembler (1985)(Havach, George A.).zip
+ADAMRLE (19xx)(Allen, Louis).zip
+Address Filing Program (19xx)(Neely, Alan).zip
+Basic Calculator (1986)(Lennes, Bon).zip
+BASIC Cross Reference Program (1989)(Braymen, Chris).zip
+Basic Source Editor (1987)(Clary, Thomas E.).zip
+BBS Helper (19xx)(Fromm, R.).zip
+BinHex (1985)(L.O.F. Communications).zip
+Catch (19xx)(Thibeault, Rick).zip
+Color Calculator (19xx)(Sheppard, Joseph)(PD).zip
+Conversions (1984)(Court, Jonathan).zip
+CPM-Smartwriter Filter Utility (1985)(Chesware).zip
+Dialer (1990)(Allen, Jr., Louis).zip
+DNS-Link v1.0 (1985)(TAB Books - DNS Software).zip
+Dvorak Demonstrator!, The (19xx)(Goebel, Jim).zip
+EPSON Printer Control Program (19xx)(Wester, M.L.).zip
+FileLock (198x)(Jones, Bob)(PD).zip
+Flying Line (1987)(Braymen, Chris).zip
+Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve).zip
+Hexbin (1985)(L.O.F. Communications).zip
+HPLOT Drawing System (198x)(Mesiavech, John).zip
+OSpeek (19xx)(-).zip
+Password Entry Program (1985)(Eve Electronic Systems).zip
+PowerPAINT Patch (1988)(Digital Express)(PD).zip
+Renumber (1986)(Dowgewicz, Paul).zip
+RLE Viewer (198x)(-).zip
+SmartFILER (1989)(Braymen, Chris).zip
+Squeeze Program v1.0 (198x)(Neeley, Alan - Morhen, Tony).zip
+SydModem v3.0 (19xx)(Neely, Alan)(PD).zip
+Tape Editor (19xx)(Hinkle, B.).zip
+Text Filter (198x)(-).zip
+Utility Copy (198x)(-).zip
+Video Cassette Filer (198x)(Matz, Phillip D.).zip
+Video Cassette Filer 2 (198x)(Matz, Phillip D.).zip
+Video Mode Selection Program v1.0 (1989)(Lingrel, John - Neeley, Alan - Sol Swift).zip
+
+Coleco ColecoVision ADAM - Applications - [COM] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+2Format v1.0 (1987)(Clary, Thomas E.).zip
+ADAM BIOS Patch v1.0 (1976)(AJM Software - Digital Research).zip
+ADAM Dir (19xx)(-).zip
+ADAM Formatter v1.2 (1988)(Moo, John).zip
+AdaMEX Overlay (1986)(Cruz Controls).zip
+Alloc (1982)(Ward C.).zip
+Clone v2.0 (198x)(Hills, C. - Morehen, T.).zip
+Coleco's Video RAM Test (198x)(-).zip
+Crunch v2.4 (1987)(Greenberg, Steven).zip
+EOS Cartridge Converter (19xx)(-).zip
+File Conversion v1.0 (198x)(AJM Software).zip
+File Converter v1.0 (198x)(-).zip
+FILT (1985)(Hoff, Irvin M.).zip
+Filter for WordStar (1985)(R.A.N.).zip
+Image v2.0 (198x)(Hills, C. - Morehen, T.).zip
+IMP v2.45 Modem PGM (1997)(Hoff, Irvin M.).zip
+Kermit-80 v4.03 (1988)(-).zip
+KFOR (1985)(Hoff, Irvin M.).zip
+LRUN v2.0.5 (1984)(Falconer, C.B. - Novosielski, Gary P.).zip
+LT31 (1986)(Falconer, C.B. - Greenberg, Steven).zip
+LZH Uncruncher v1.1 (1989)(Greenberg, Steven - Warren, Roger).zip
+Madam7 (1984)(Hoff, Irvin M.).zip
+MEX Modem Executive v1.14 (1985)(Nightowl Software).zip
+MEX Modem Executive v1.14 (1985)(Nightowl Software)[a2].zip
+MEX Modem Executive v1.14 (1985)(Nightowl Software)[a3].zip
+MEX Modem Executive v1.14 (1985)(Nightowl Software)[a].zip
+MLOAD v2.4 (1985)(Nightowl Software).zip
+NSWP (1983)(Rand, Dave).zip
+NULU v1.52 (1987)(Murray, Martin - Waters, Mick).zip
+Port Experimenter (19xx)(AUG)(PD).zip
+QTERM v4.2 (1990)(DPG).zip
+QTERM v4.2G (1990)(Friedman, Rob).zip
+RAM Test v1.3 (198x)(AJM Software).zip
+Self Test User Cartridge (1982)(Coleco - System Design Group).zip
+ShowPic v1.0 (1993)(Wick, Dale).zip
+ShowRLE v1.0 (1993)(Wick, Dale).zip
+System Generator v1.9 (198x)(-).zip
+TRS-80 to ADAM Disk Copier (19xx)(-).zip
+UNARC v1.6 (1987)(Freed, Robert A.).zip
+UNCR v2.4 (1987)(Greenberg, Steven).zip
+UNSPOOL v3.0 (19xx)(-).zip
+ViewRLE v1.0 (198x)(Clary, Thomas E.).zip
+Wargames Dialer (198x)(-).zip
+XCCP v1.0 (1984)(Fleig, Anton R.).zip
+ZMP15 (19xx)(Friedman, Rob).zip
+
+Coleco ColecoVision ADAM - Applications - [DDP] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+M - Applications - [DDP] (TOSEC-v2011-08-31_CM)>dir /b
+Adam Link II Communications Package (1983)(Coleco).zip
+CopyCart+ v1.1 (19xx)(-).zip
+Smart Letters and Forms (1984)(Coleco).zip
+SmartLOGO (1984)(LOGO Computer Systems).zip
+
+Coleco ColecoVision ADAM - Applications - [DSK] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+M - Applications - [DSK] (TOSEC-v2011-08-31_CM)>dir /b
+Adam Calc (1984)(Lazer MicroSystems).zip
+Adam Link II Patches (1984)(Coleco).zip
+Adam Link II Telecommunicator (1984)(Coleco).zip
+ADAM Utilities v1.50 (1984)(Coleco).zip
+ADAMCALC Orphanware Patch (1987)(Clary, Thomas E.).zip
+Boot Pix Deluxe (1988)(Metro Orlando Adam User's Group).zip
+Catalog Program (198x)(Coleco).zip
+Copycart+ 01 (1985)(MMSG).zip
+Copycart+ 02 (1985)(MMSG).zip
+Copycart+ 02 (1985)(MMSG)[a].zip
+Copycart+ 03 (1985)(MMSG).zip
+Copycart+ 04 (1985)(MMSG).zip
+Copycart+ 05 (1985)(MMSG).zip
+Copycart+ 06 (1985)(MMSG).zip
+EOS CPM Format Utilites (19xx)(-).zip
+GJMG - Copy Utilities (1987)(GJMG Enterprises).zip
+GJMG - Quickopy v1.0 (1987)(GJMG Enterprises).zip
+GJMG - Quickopy v1.1 (1987)(GJMG Enterprises).zip
+Market Monitor (1986)(Coleco).zip
+Multicart Backup (19xx)(-).zip
+Orphanware Fastpatch v2.0 (1987)(Orhan).zip
+PowerPAINT (1987)(Digital Express).zip
+Simple Painter & Simple FX (1990)(THE softWORKS FACTORY)(PD).zip
+Smart Filer (1984)(Coleco).zip
+Smart Filer (1984)(Coleco)[a].zip
+SmartBasic v1.0 (1983)(Coleco - LMI).zip
+SmartBasic v1.2 (1983)(Coleco - LMI).zip
+SmartLOGO (1984)(LOGO Computer Systems).zip
+SmartPrint Plus (1992)(M.A.L. - Swift).zip
+Swift Disk (19xx)(-).zip
+Wordstar v3.3 (1983)(MicroPro International Corporation).zip
+
+Coleco ColecoVision ADAM - Applications - [IMG] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+ADAMLink III Xmodem Patch (1988)(Clary, Thomas E.).zip
+Dice (demo) (198x)(-).zip
+Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve).zip
+MIDIBasic (1990)(Bonafide Systems)(PD).zip
+Quick Copy (1987)(GJMG Enterprises).zip
+
+Coleco ColecoVision ADAM - Applications - [LBR] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+1K Utility Program Library (1987)(Friefeld, Rob).zip
+Account (198x)(-).zip
+ADAM ZMP (1989)(Friedman, Rob).zip
+Append DZC (19xx)(-).zip
+Auto Logon Functions (1988)(Friedman, Rob).zip
+Auto Qterm Capture (1994)(-).zip
+Auto Qterm Capture (1994)(-)[a].zip
+Backform (1993)(Braymen, Chris).zip
+Base (19xx)(Lindsay, Jon).zip
+Biformat (19xx)(-).zip
+Biprint CZM (19xx)(-).zip
+Certifi CZM (19xx)(-).zip
+CIS Functions Semiautomatic (19xx)(-).zip
+Concat DZC (19xx)(-).zip
+Crunch v2.4 (1987)(Greenberg, Steven).zip
+Dynamic Debugging (1986)(Havach, George A.).zip
+File Convert v1.1 (199x)(-).zip
+File Convert v1.4 (199x)(-).zip
+Format (19xx)(-).zip
+HD Menu (19xx)(-).zip
+IMP v2.45 (1987)(Hoff, Irvin M.).zip
+Index (199x)(-).zip
+JRT Pascal (198x)(Tyson, James R.)(PD).zip
+JRT Pascal Manual (198x)(Tyson, James R.)(PD).zip
+Log Maker (19xx)(-).zip
+LZH Cruncher v1.1 (1989)(Greenberg, Steven - Warren, Roger).zip
+MEX Modem Executive v1.14 (1985)(Nightowl Software)[a4].zip
+MEX Modem Executive v1.14 Patch (19xx)(-).zip
+MEX Modem Executive v1.14 READ Files (19xx)(Fall, Joseph).zip
+MEX Modem Executive v1.14U library (19xx)(Friedman, Rob).zip
+Patch BIOS for Adamnet Real Time Clock v1.04 (1995)(-).zip
+QTERM v4.2 Patches (1991)(Goodenough, Dave).zip
+QTERM v4.2G (1990)(Friedman, Rob).zip
+QTERM v4.3 (199x)(-).zip
+Shell-Metzner v3.7 (1983)(Hoff, Irvin M.).zip
+SmartFILER Database (1989)(Braymen, Chris).zip
+TCVIEW v2.3 (19xx)(Collino, Roin).zip
+Thru v2.8 (1991)(Warren, Roger).zip
+Undelete (19xx)(-).zip
+Unsqueeze & Uncrunch (1989)(Greenberg, Steven).zip
+VIEW v1.0 (1987)(Clary, Thomas E.).zip
+WordPro-100 (19xx)(-).zip
+Z-system Display Editor (19xx)(Meyer, Eric).zip
+Z80 LZH Coding (1991)(Warren, Roger).zip
+ZDE16Y (1990)(Wilson, Carlson).zip
+ZMP15 (19xx)(Friedman, Rob).zip
+ZZAP22 (1990)(-).zip
+
+Coleco ColecoVision ADAM - Compilations - [DDP] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Best of Electronic Arts - Pinball Construction Set & The Hard Hat Mack (19xx)(K-byte - Coleco).zip
+NIAD SmartBasic Utils UNDV #2 (1983)(Lazer Microsystems).zip
+Software For The Coleco ADAM (19xx)(-).zip
+
+Coleco ColecoVision ADAM - Compilations - [DSK] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Best of B.C. Featuring B.C's Quest For Tires and B.C. II - Gog's Revenge (1985)(Sydney Development).zip
+Best of Electronic Arts, The (19xx)(Electronic Arts).zip
+Cartsoft #01 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #04 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #05 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #07 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #08 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #14 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #16 (198x)(U.K. ADAM Subscribers).zip
+Cartsoft #19 (198x)(U.K. ADAM Subscribers).zip
+Megadisk #1 (19xx)(Coleco - LMI).zip
+NIAD Public Domain Volume 36 (1989)(NIAD)(PD).zip
+
+Coleco ColecoVision ADAM - Compilations - [IMG] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Best of Electronic Arts, The (19xx)(Electronic Arts).zip
+
+Coleco ColecoVision ADAM - Compilations - [LBR] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+BDS Life - Special H19 Version (19xx)(-).zip
+Games Compilation (19xx)(-).zip
+Kaypro Disk #25 (19xx)(-)(PD).zip
+
+Coleco ColecoVision ADAM - Educational - [BAS] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Teaching the Alphabet (198x)(Iversen, Mike).zip
+
+Coleco ColecoVision ADAM - Educational - [DDP] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Expertype - Smart Writer Typing Tuition Program (19xx)(-).zip
+
+Coleco ColecoVision ADAM - Educational - [DSK] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco).zip
+
+Coleco ColecoVision ADAM - Games - [BAS] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+3D Maze (19xx)(Apps, Vince - Lowe, N.J.).zip
+Baracade (198x)(-).zip
+Battle Ship (198x)(Pressler, Samuel).zip
+Breakthru (1989)(Fedor, Ted - Fedor, Greg).zip
+Bricks (19xx)(-).zip
+Bug (19xx)(Leibowitz, Brian - Thibeault, Rick).zip
+Camel (198x)(Creative Computing).zip
+Caterpillar (19xx)(Apps, Vince - Lowe, N.J.).zip
+Caterpillar Revenge's (19xx)(Apps, Vince - Lowe, N.J.).zip
+Circus (1984)(Setera, Craig - Lowe, N.J.).zip
+Connect Four (1987)(Love, Marianne).zip
+Evasion (198x)(Apps, Vince - Lowe, N.J.).zip
+Goblin (19xx)(Goff, Dan - Lowe, N.J.).zip
+Hamurabi (198x)(-).zip
+Jumping Jack (19xx)(Burger, Paul - Lowe, N.J.).zip
+Minefield (19xx)(Lowe, N.J.).zip
+Mission- E.V.I.L. (198x)(DBJ).zip
+Peg Jump (1987)(Love, Marianne - Stoffers, Bob).zip
+Poker House (198x)(Elsila, Mike).zip
+Roader (1984)(Foley, Brian - Lowe, N.J.).zip
+Sink the Ship (198x)(Wood, Kevin).zip
+Star Trek (19xx)(Archuleta, Ken).zip
+Survival (1982)(Elsila, Mike - Rush, Stewart F.)(PD).zip
+TJ Nuclear Power Plant (19xx)(-).zip
+Towers of Hanoi (198x)(Matz, Phil).zip
+Twelve Days of Christmas, The (19xx)(-).zip
+Werewolves and Wanderer (1984)(Bucholtz, Rick - Hartnell, Tim).zip
+Worm of Bemer (1984)(Lowe, N.J. - Parrish, Patrick).zip
+Wormwood (198x)(Home Computer Magazine).zip
+Yahtzee (198x)(Braymen, Chris).zip
+
+Coleco ColecoVision ADAM - Games - [BIN] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Donkey Kong (1982)(Coleco - Nintendo).zip
+War Room (1983)(NAP Consumer Electronics).zip
+
+Coleco ColecoVision ADAM - Games - [COM] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Game Save (1985)(Munnings, Stephen).zip
+Hangman (1985)(Mix Software).zip
+Othello (198x)(-).zip
+Pacman (19xx)(-).zip
+
+Coleco ColecoVision ADAM - Games - [DDP] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Addictus v1.01 (1989)(Reedy Software).zip
+Buck Rogers - Planet of Zoom (1983)(Sega).zip
+Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo).zip
+Flash Facts - Trivia (1984)(Coleco).zip
+Flash Facts - Vocabulator (1984)(Coleco).zip
+Subroc (1983)(Sega).zip
+Trolls Tale (19xx)(-)(PD).zip
+
+Coleco ColecoVision ADAM - Games - [DSK] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment).zip
+Adam Links Golf (1986)(Superior Software).zip
+Addictus (1989)(Reedy Software).zip
+Buck Rogers - Planet of Zoom (1983)(Sega).zip
+Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[a][Req 128k].zip
+Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[Req 128k].zip
+Campaign '84 (1983)(Sunrise Software).zip
+Chess Champ (1988)(Digital Express).zip
+Dam Busters, The (1984)(Sydney Development).zip
+Diablo (1984)(Image Microcorp - Extended Software).zip
+Donkey Kong Jr Rev 13 (1983)(Coleco - Nintendo).zip
+Dragon's Lair (1983)(Magicom).zip
+Evolution (1983)(Sydney Development).zip
+Evolution (1983)(Sydney Development)[b].zip
+Family Feud - Questions Pack (1986)(The Family Company).zip
+Family Feud - Questions Pack (1986)(The Family Company)[a].zip
+Family Feud - Writer (1986)(Walters Software)[b].zip
+Jeopardy (19xx)(-)(proto).zip
+Jeopardy (19xx)(-)(proto)[a].zip
+Modem Chess (1993)(Bonafide Software).zip
+Phrase Craze (1988)(Reedy Software).zip
+Quatris (1989)(Perkins, Steven B.)[b].zip
+Super Cosmo Fighter (1997)(Kogel, Marcel de)(PD).zip
+Super Subroc (1984)(Sega - Coleco).zip
+Super Zaxxon (1984)(Sega - Coleco).zip
+Temple of Apshai (1985)(Epyx)[h].zip
+Trolls Tale (19xx)(-)(PD)[b].zip
+
+Coleco ColecoVision ADAM - Games - [IMG] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Chess (19xx)(-).zip
+ZZZ-UNK-BACHSAMP.zip
+ZZZ-UNK-MTANK.zip
+ZZZ-UNK-NEWBOO.zip
+
+Coleco ColecoVision ADAM - Games - [LBR] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+Adventure (1986)(Greenberg, Steven).zip
+Aliens (198x)(-).zip
+Calloway Golf (1985)(Mix Software).zip
+Captur Qyrc (19xx)(-).zip
+Complete Adventure, The (198x)(-)(Disk 1 of 2).zip
+Complete Adventure, The (198x)(-)(Disk 2 of 2).zip
+DazzleStar (19xx)(-).zip
+General Hospital (19xx)(Rasch, Robert W.).zip
+Quatris (198x)(-).zip
+Trivial (19xx)(Stubblefield, Mike).zip
+
+Coleco ColecoVision ADAM - Operating Systems - [DSK] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+CP-M 2.2 v1.50 (1984)(Digital Research - Coleco).zip
+CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a].zip
+TDOS CPM 2.2 System (19xx)(-)[720k Disk].zip
+TDOS v4.5 (19xx)(-).zip
+TDOS v4.5 Docs (19xx)(-).zip
+TDOS v4.58 (19xx)(-).zip
+
+Coleco ColecoVision ADAM - Operating Systems - [LBR] (TOSEC-v2011-08-31_CM)
+=====================================================================================================
+ConIX Operating System, The (1984)(Computer Helper Industries).zip
+TDOS v4.58 (19xx)(-).zip
+TDOS v4.58 - Big Hard Drives (198x)(-).zip
+TDOS v4.58 - MI Serial Ports (19xx)(-).zip
+TDOS v4.58 Documentation (19xx)(-).zip
+TDOS v4.58 Help Menu (19xx)(-).zip
+TDOS v4.58 Patches (19xx)(-).zip
+TDOS v4.58 Patches (19xx)(-)[a].zip
+TDOS v4.58 Utilities (19xx)(-).zip
