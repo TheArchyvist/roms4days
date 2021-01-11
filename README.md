@@ -9,7 +9,7 @@ You can use this archive several ways. You can use the following links to downlo
 | Archive Name | GitHub Archive | Download Link | Amount of Files | Size |
 |--------------------|--------------------|--------------------|--------------------|--------------------|
 | Bios Packs         | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | [Download Here](https://downgit.github.io/#/home?url=https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | 618 items | 135.7 MB |
-| Atari |
+| Atari | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari) | In Progress | In Progress | In Progress |
 | Bandai Playdia |
 | Bandai Wonderswan |
 | Coleco Adam |
