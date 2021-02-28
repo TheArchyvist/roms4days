@@ -8,24 +8,13 @@ You can use this archive several ways. You can use the following links to downlo
 # Consoles
 | Archive Name | GitHub Archive | Download Link | Amount of Files | Size |
 |--------------------|--------------------|--------------------|--------------------|--------------------|
-| Bios Packs         | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | [Download Here](https://downgit.github.io/#/home?url=https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | 618 items | 135.7 MB |
-| Atari | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari) | In Progress | In Progress | In Progress |
-| Bandai Playdia |
-| Bandai Wonderswan |
-| Coleco Adam |
-| Coleco Vision |
-| Magnavox |
-| Microsoft xBox ISOs |
-| Neo Geo CD ISOs |
-| Nintendo |
-| Panasonic 3DO |
-| PC Engine CD - Turbo Duo - TurboGrafx-CD |
-| PC Engine - TurboGrafx-16 |
-| PC-FX |
-| Philips CD-i |
-| RetroArch |
-| Sega |
-| Sony |
+| Bios Packs         | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bios%20Packs) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/bios) | 618 items | 135.7 MB |
+| Atari Collection | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari) | [Download](https://downgit.github.io/#/home?url=https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari) | In Progress | In Progress |
+| Atari 2600 | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%202600) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/Atari2600) | 578 items | 4.34 MB |
+| Atari 5200 |  [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%205200) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/Atari5200) | 147 items | 32.1 MB |
+| Atari 7800 |  [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%207800) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/Atari7800) | 144 items | 24 MB |
+| Atari Jaguar |  [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%20Jaguar) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/AtariJaguar)| 141 items | 160 MB |
+
 
 # Arcade Systems
 _work in progress_
