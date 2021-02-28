@@ -20,10 +20,29 @@ Consoles Archive Info
 'Mac Quadra BIOS'            'Scph1000 BIOS'
 
 # Atari
-# Bandai Playdia
-# Bandai Wonderswan
+2600
+5400
+7800
+Jaguar
+ST
+
+# Bandai
+Bandai Apple Pippin
+Apple Pippin
+Arcadia 2001
+Bandai LCD Solar Power
+Bandai RX-78
+Bandai Super Vision 8000
+Bandai Playdia
+Bandai Terebikko
+Bandai Wonderswan
+Bandai Wonderswan Color
+
+# Coleco
 Coleco Adam
 Coleco Vision
+
+
 Magnavox
 Microsoft xBox ISO's
 Neo Geo ISOs

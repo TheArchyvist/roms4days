@@ -14,6 +14,8 @@ You can use this archive several ways. You can use the following links to downlo
 | Atari 5200 |  [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%205200) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/Atari5200) | 147 items | 32.1 MB |
 | Atari 7800 |  [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%207800) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/Atari7800) | 144 items | 24 MB |
 | Atari Jaguar |  [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Atari/Atari%20Jaguar) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/AtariJaguar)| 141 items | 160 MB |
+| Bandai Collection | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bandai) | [Download](https://downgit.github.io/#/home?url=https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bandai) | In progress | In progress |
+| Bandai Wonderswan | [View Archive](https://github.com/TheArchyvist/the-rom-vault/tree/master/Consoles/Bandai/Bandai%20Wonderswan) | [Download](https://github.com/TheArchyvist/the-rom-vault/releases/tag/BandaiWonderswan) | 256 items | 654 MB |
 
 
 # Arcade Systems
