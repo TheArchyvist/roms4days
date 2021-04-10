@@ -31,6 +31,7 @@ _work in progress_
 _work in progress_
 
 # Computers
+* Acord 8-bit
 * Apple 2
 * Apple 2 GS
 * Comadore 16
